@@ -14,6 +14,12 @@
         "tab": "Guides",
         "groups": [
           {
+            "group": "Tech4.ai",
+            "pages": [
+              "tech4ai/index"
+            ]
+          },
+          {
             "group": "Getting started",
             "pages": [
               "index",
